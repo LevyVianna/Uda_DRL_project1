@@ -32,9 +32,9 @@ Follow the instructions in `Navigation_Solution.ipynb` to get started with train
 
 ### Solution
 
- 1 - Deep Q Learning as described in [original paper] (https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+ 1 - Deep Q Learning as described in original paper: https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
  
- 2 - [Double Q Learning] (https://arxiv.org/pdf/1509.06461.pdf)
+ 2 - Double Q Learning: https://arxiv.org/pdf/1509.06461.pdf
  
- 3 - [https://arxiv.org/pdf/1511.06581.pdf] (https://arxiv.org/pdf/1511.06581.pdf)
+ 3 - Dueling Network Architectures: https://arxiv.org/pdf/1511.06581.pdf
  
