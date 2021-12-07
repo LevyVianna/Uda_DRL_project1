@@ -29,12 +29,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 Follow the instructions in `Navigation_Solution.ipynb` to get started with training your own agent!  
-
-### Solution
-
- 1 - Deep Q Learning as described in original paper: https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
- 
- 2 - Double Q Learning: https://arxiv.org/pdf/1509.06461.pdf
- 
- 3 - Dueling Network Architectures: https://arxiv.org/pdf/1511.06581.pdf
  
