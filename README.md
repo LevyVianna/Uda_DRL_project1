@@ -28,7 +28,7 @@ The task is episodic, and in order to solve the environment, your agent must get
    You will need to use this file when you run the "Navigation_Solution" notebook
  3. Run "jupyter notebook" and click in "Navigation_solution.ipynb" notebook.
  4. You need to run the first cell from "Navigation_solution.ipynb" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
- 5. In the #Navigation_solution.ipynb" notebook, in step 3, put the path of the file downloaded in the step 2 of this readme page.
+ 5. In the "Navigation_solution.ipynb" notebook, in step 3, put the path of the file downloaded in the step 2 of this readme page.
  
 
  
