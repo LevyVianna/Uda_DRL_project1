@@ -20,13 +20,15 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Getting Started
 1. I recommend you install python 3.6 and the virtual environment you prefer.
-2. You need to download teh Unity environment that matches your operating system:
+2. You need to download the Unity environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
    You will need to use this file when you run the "Navigation_Solution" notebook
- 3. You need to run the first cell from "Navigation_solution" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
- 4. For further details, run the "Navigation_solution" notebook
+ 3. Run "jupyter notebook" and click in "Navigation_solution.ipynb" notebook.
+ 4. You need to run the first cell from "Navigation_solution.ipynb" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
+ 5. In the #Navigation_solution.ipynb" notebook, in step 3, put the path of the file downloaded in the step 2 of this readme page.
+ 
 
  
