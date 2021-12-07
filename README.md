@@ -19,14 +19,14 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 ### Getting Started
-
-1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
+1. I recommend you install python 3.6 and the virtual environment you prefer.
+2. You need to download teh Unity environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+   You will need to use this file when you run the "Navigation_Solution" notebook
+ 3. You need to run the first cell from "Navigation_solution" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
+ 4. For further details, run the "Navigation_solution" notebook
 
-### Instructions
-
-Follow the instructions in `Navigation_Solution.ipynb`.
  
